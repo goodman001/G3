@@ -1,0 +1,8 @@
+1.config file
+  public/config.php
+2.page use the "page.class.php"
+3.public nav file is in the public/nav.php
+4.database: admin cuser imgs Logging category
+5.sqlfile: buildings.sql(You must build the database buildings firstly,then import the sqlfile)
+6.img name format: category name + time
+  
